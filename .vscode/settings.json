@@ -1,0 +1,6 @@
+{
+    "rest-client.enableTelemetry": false,
+    "intelephense.telemetry.enabled": false,
+    "database-client.telemetry.usesOnlineServices": false,
+    "gitlens.telemetry.enabled": false
+}
